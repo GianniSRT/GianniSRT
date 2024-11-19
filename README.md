@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, moi c'est Gianni</h1>
 
 <p align="center">
- [![banniere-securite-informatique-fond-horizontal-style-plat-96318-5752.avif](https://i.postimg.cc/Hs3Mxp3b/banniere-securite-informatique-fond-horizontal-style-plat-96318-5752.avif)](https://postimg.cc/gnXjtbC0)
+  <img src="https://i.postimg.cc/Hs3Mxp3b/banniere-securite-informatique-fond-horizontal-style-plat-96318-5752.avif" alt="Bannière Sécurité Informatique" />
 </p>
 
 <h3 align="center">Étudiant en première année, passionné par l'informatique, le sport (surtout le football), et curieux de découvrir de nouvelles choses !</h3>
@@ -33,4 +33,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innagbki&show_icons=true&locale=en&layout=compact" alt="Statistiques GitHub de Gianni" /></p>
 
 ---
-
