@@ -27,7 +27,7 @@
 
 <h3 align="left">🔍 Je recherche une alternance :</h3>
 
-- 🎓 **Domaine :** Développement web, front-end, ou back-end.  
+- 🎓 **Domaine :** Développement web.  
 - 📅 **Disponibilité :** Dès maintenant ou selon les besoins pour une alternance adaptée à mon parcours.  
 - 🤝 **Compétences en développement :** HTML, CSS, travail en équipe, et beaucoup de motivation pour apprendre davantage.  
 - 💼 **N'hésitez pas à me contacter :** [Mon LinkedIn](https://linkedin.com/in/gianni-srt-786421337/)  
