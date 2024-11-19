@@ -1,7 +1,12 @@
 <h1 align="center">Salut 👋, moi c'est Gianni</h1>
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x300.png?text=Développement+Web" alt="Bannière représentant le développement web" />
+</p>
+
 <h3 align="center">Étudiant en première année, passionné par l'informatique, le sport (surtout le football), et curieux de découvrir de nouvelles choses !</h3>
 
-- 🌱 **En pleine découverte du développement web** : J'apprends actuellement les bases du HTML, CSS, et je m'intéresse à d'autres technologies pour créer des projets web interactifs.
+- 🌱 **En pleine découverte du développement web** : J'apprends actuellement les bases du HTML, CSS, et je m’intéresse à d'autres technologies pour créer des projets web interactifs.
 
 - 🔭 **Projet réalisé :** J'ai travaillé sur un projet collectif intitulé [Célébrités](https://github.com/InnagBKI/Maes-Projet-), une expérience enrichissante qui m'a permis d'explorer la collaboration en équipe et le développement web.
 
