@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, moi c'est Gianni</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Développement+Web" alt="Bannière représentant le développement web" />
+ [![banniere-securite-informatique-fond-horizontal-style-plat-96318-5752.avif](https://i.postimg.cc/Hs3Mxp3b/banniere-securite-informatique-fond-horizontal-style-plat-96318-5752.avif)](https://postimg.cc/gnXjtbC0)
 </p>
 
 <h3 align="center">Étudiant en première année, passionné par l'informatique, le sport (surtout le football), et curieux de découvrir de nouvelles choses !</h3>
