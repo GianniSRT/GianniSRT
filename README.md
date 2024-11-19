@@ -6,6 +6,10 @@
 
 <h3 align="center">Étudiant en première année, passionné par l'informatique, le sport (surtout le football), et curieux de découvrir de nouvelles choses !</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="GIF Développement Web en action">
+</p>
+
 - 🌱 **En pleine découverte du développement web** : J'apprends actuellement les bases du HTML, CSS, et je m’intéresse à d'autres technologies pour créer des projets web interactifs.
 
 - 🔭 **Projet réalisé :** J'ai travaillé sur un projet collectif intitulé [Célébrités](https://github.com/InnagBKI/Maes-Projet-), une expérience enrichissante qui m'a permis d'explorer la collaboration en équipe et le développement web.
@@ -14,22 +18,58 @@
 
 - ⚡ **Fun fact :** J'adore sortir de ma zone de confort et apprendre des choses que je ne connais pas !
 
-<h3 align="left">Connecte-toi avec moi :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gianni-srt-786421337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Gianni" height="30" width="40" /></a>
+---
+
+<h3 align="center">Langages et Outils que j'utilise :</h3>
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="animation: bounce 2s infinite;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="animation: shake 1.5s infinite;">
 </p>
 
-<h3 align="left">Langages et Outils que j'utilise :</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
+<h3 align="left">Connecte-toi avec moi :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gianni-srt-786421337/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Gianni" height="30" width="40" style="animation: pulse 1s infinite;" />
+</a>
 </p>
 
 <h3 align="left">Mes statistiques GitHub :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innagbki&show_icons=true&locale=en&layout=compact" alt="Statistiques GitHub de Gianni" /></p>
 
 ---
+
+<style>
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes shake {
+  0%, 100% {
+    transform: rotate(0);
+  }
+  25% {
+    transform: rotate(-5deg);
+  }
+  75% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style>
