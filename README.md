@@ -2,10 +2,6 @@
 
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #f39c12; font-style: italic; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">Étudiant passionné par le développement web | Toujours à la recherche de nouveaux défis ⚡</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gR1eDmjTZpT3fF2/giphy.gif" width="600" alt="Développement Web futuriste">
-</p>
-
 ## 👨‍💻 À propos de moi
 
 <div align="center">
@@ -26,6 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin: 10px;">
 </p>
 
 ---
