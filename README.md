@@ -63,10 +63,8 @@
   <a href="https://linkedin.com/in/gianni-srt-786421337/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
   </a>
-  <a href="mailto:contact@gianni.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=social&logo=email&logoColor=white" alt="Email" width="150" />
-  </a>
 </p>
+
 
 ---
 
