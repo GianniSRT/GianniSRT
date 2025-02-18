@@ -48,6 +48,14 @@
 
 ---
 
+## 🚀 Mon activité GitHub
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GianniSRT&label=Visiteurs%20GitHub&color=blue&style=flat" alt="Compteur de visites" />
+</p>
+
+---
+
 ## 🔗 Connecte-toi avec moi
 
 <p align="center">
