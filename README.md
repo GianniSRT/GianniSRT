@@ -9,7 +9,7 @@
 ## 👨‍💻 À propos de moi
 
 - 🌱 **En pleine évolution** : HTML, CSS, JavaScript, et un grand appétit pour apprendre de nouvelles technologies.  
-- 🔭 **Dernier projet réalisé :** [Célébrités](https://github.com/GIANNISRT/Maes-Projet-) → Une aventure collaborative en développement web.  
+- 🔭 **Dernier projet réalisé :** [Célébrités](https://github.com/InnagBKI/Maes-Projet-) → Une aventure collaborative en développement web.  
 - 🎯 **Objectif :** Créer un portfolio unique et explorer d’autres langages comme React et Node.js.  
 - ⚡ **Fun fact :** Toujours à l'affût de nouveaux défis et je déteste être dans ma zone de confort !  
 
@@ -39,11 +39,11 @@
 ## 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innagbki&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Stats GitHub de Gianni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GianniSRT&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Stats GitHub de Gianni" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innagbki&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Langages GitHub de Gianni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GianniSRT&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Langages GitHub de Gianni" />
 </p>
 
 ---
