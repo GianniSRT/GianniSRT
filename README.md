@@ -61,10 +61,11 @@
 ## 🔗 Connecte-toi avec moi
 
 <p align="center">
-  <a href="https://linkedin.com/in/gianni-srt-786421337/" target="blank">
+  <a href="https://linkedin.com/in/gianni-srt-786421337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
   </a>
 </p>
+
 
 
 ---
