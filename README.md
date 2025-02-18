@@ -1,27 +1,27 @@
-<h1 align="center">🚀 Salut, moi c'est Gianni !</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4e73df;">🚀 Salut, moi c'est Gianni !</h1>
 
-<h3 align="center">Étudiant en développement web | Passionné par la tech et le sport ⚽</h3>
+<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #1cc88a;">Étudiant passionné par le développement web | Toujours à la recherche de nouveaux défis ⚡</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="GIF Développement Web">
+  <img src="https://i.pinimg.com/originals/67/16/17/671617f1b9a1584c3d19e5db05137f4e.gif" width="500" alt="GIF Développement Web">
 </p>
 
 ## 👨‍💻 À propos de moi
 
-- 🌱 **Actuellement en apprentissage** : HTML, CSS et JavaScript, avec une curiosité pour d'autres technologies web.  
-- 🔭 **Dernier projet :** [Célébrités](https://github.com/InnagBKI/Maes-Projet-) → Une expérience collaborative enrichissante en développement web.  
-- 🎯 **Objectif du moment :** Construire un portfolio solide et explorer de nouveaux langages.  
-- ⚡ **Fun fact :** Toujours prêt à relever de nouveaux défis et à apprendre en sortant de ma zone de confort.  
+- 🌱 **En pleine évolution** : HTML, CSS, JavaScript, et un grand appétit pour apprendre de nouvelles technologies.  
+- 🔭 **Dernier projet réalisé :** [Célébrités](https://github.com/GIANNISRT/Maes-Projet-) → Une aventure collaborative en développement web.  
+- 🎯 **Objectif :** Créer un portfolio unique et explorer d’autres langages comme React et Node.js.  
+- ⚡ **Fun fact :** Toujours à l'affût de nouveaux défis et je déteste être dans ma zone de confort !  
 
 ---
 
-## 🛠️ Stack & Outils
+## 🛠️ Compétences & Outils
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
 </p>
 
 ---
@@ -29,20 +29,34 @@
 ## 🎯 À la recherche d'une alternance
 
 💼 **Domaine :** Développement web  
-📆 **Disponibilité :** Immédiate ou selon vos besoins  
-💡 **Compétences :** HTML, CSS, esprit d’équipe et une forte motivation à apprendre  
+📆 **Disponibilité :** Immédiate, flexible selon l'opportunité  
+💡 **Compétences :** HTML, CSS, JavaScript, travail en équipe, et une forte volonté d’apprendre !  
 
 📩 **Contactez-moi ici :** [LinkedIn](https://linkedin.com/in/gianni-srt-786421337/)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innagbki&show_icons=true&locale=fr&layout=compact" alt="Stats GitHub de Gianni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=innagbki&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Stats GitHub de Gianni" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innagbki&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Langages GitHub de Gianni" />
 </p>
 
 ---
 
-🚀 **Toujours prêt à apprendre et à créer !**  
-👥 **Connecte-toi avec moi :** [LinkedIn](https://linkedin.com/in/gianni-srt-786421337/)
+## 🔗 Connecte-toi avec moi
+
+<p align="center">
+<a href="https://linkedin.com/in/gianni-srt-786421337/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" />
+</a>
+</p>
+
+---
+
+🌍 **Toujours prêt à apprendre et à grandir !**  
+👥 **Connectons-nous et créons quelque chose de génial !**
