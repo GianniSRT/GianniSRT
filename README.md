@@ -1,12 +1,16 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4e73df;">🚀 Salut, moi c'est Gianni !</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1abc9c; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">🚀 Salut, moi c'est Gianni !</h1>
 
-<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #1cc88a;">Étudiant passionné par le développement web | Toujours à la recherche de nouveaux défis ⚡</h3>
+<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #f39c12; font-style: italic; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">Étudiant passionné par le développement web | Toujours à la recherche de nouveaux défis ⚡</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/67/16/17/671617f1b9a1584c3d19e5db05137f4e.gif" width="500" alt="GIF Développement Web">
+  <img src="https://media.giphy.com/media/3o7TKBZX79uKNx7VhC/giphy.gif" width="500" alt="GIF Développement Web">
 </p>
 
 ## 👨‍💻 À propos de moi
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/97645214?v=4" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" alt="Gianni's Profile Image">
+</div>
 
 - 🌱 **En pleine évolution** : HTML, CSS, JavaScript, et un grand appétit pour apprendre de nouvelles technologies.  
 - 🔭 **Dernier projet réalisé :** [Célébrités](https://github.com/InnagBKI/Maes-Projet-) → Une aventure collaborative en développement web.  
@@ -18,10 +22,10 @@
 ## 🛠️ Compétences & Outils
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80" style="margin: 10px;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin: 10px;">
 </p>
 
 ---
@@ -39,11 +43,11 @@
 ## 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianniSRT&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Stats GitHub de Gianni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GianniSRT&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&line_height=20" alt="Stats GitHub de Gianni" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GianniSRT&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Langages GitHub de Gianni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GianniSRT&show_icons=true&locale=fr&layout=compact&theme=radical&line_height=20" alt="Langages GitHub de Gianni" />
 </p>
 
 ---
@@ -51,7 +55,7 @@
 ## 🚀 Mon activité GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GianniSRT&label=Visiteurs%20GitHub&color=blue&style=flat" alt="Compteur de visites" />
+  <img src="https://komarev.com/ghpvc/?username=GianniSRT&label=Visiteurs%20GitHub&color=blue&style=flat&label=visiteurs" alt="Compteur de visites" />
 </p>
 
 ---
@@ -59,9 +63,12 @@
 ## 🔗 Connecte-toi avec moi
 
 <p align="center">
-<a href="https://linkedin.com/in/gianni-srt-786421337/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" />
-</a>
+  <a href="https://linkedin.com/in/gianni-srt-786421337/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+  </a>
+  <a href="mailto:contact@gianni.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=social&logo=email&logoColor=white" alt="Email" width="150" />
+  </a>
 </p>
 
 ---
