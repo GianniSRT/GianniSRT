@@ -10,7 +10,7 @@
 
 
 - 🌱 **En pleine évolution** : HTML, CSS, JavaScript, et un grand appétit pour apprendre de nouvelles technologies.  
-- 🔭 **Dernier projet réalisé :** [Célébrités](https://github.com/InnagBKI/Maes-Projet-) → Une aventure collaborative en développement web.  
+- 🔭 **Dernier projet réalisé :** [Célébrités](giannisrt.github.io/) → Mis à jour chaque semaine modification de cards etc...  
 - 🎯 **Objectif :** Créer un portfolio unique et explorer d’autres langages comme React et Node.js.  
 - ⚡ **Fun fact :** Toujours à l'affût de nouveaux défis et je déteste être dans ma zone de confort !  
 
